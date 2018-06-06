@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.0\SampleWebApi.deps.json
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.0\SampleWebApi.runtimeconfig.json
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.0\SampleWebApi.runtimeconfig.dev.json
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.0\SampleWebApi.dll
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\bin\Debug\netcoreapp2.0\SampleWebApi.pdb
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.AssemblyInfo.cs
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.dll
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.pdb
+c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.csprojAssemblyReference.cache
