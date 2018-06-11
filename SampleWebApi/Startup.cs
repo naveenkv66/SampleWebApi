@@ -67,6 +67,7 @@ namespace SampleWebApi
                 // NOTE: The claim type and value are case-sensitive
                 cfg.AddPolicy("CanAccessProducts", p => p.RequireClaim("CanAccessProducts", "true"));
                 cfg.AddPolicy("CanAccessCategories", p => p.RequireClaim("CanAccessCategories", "true"));
+                //cfg.AddPolicy("admin", p => p.RequireRole("admin"));
            
             });
 

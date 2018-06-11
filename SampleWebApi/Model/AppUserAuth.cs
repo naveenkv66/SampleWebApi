@@ -2,18 +2,19 @@ using System.Collections.Generic;
 
 namespace SampleWebApi.Model
 {
-  public class AppUserAuth
-  {
-    public AppUserAuth() : base()
+    public class AppUserAuth
     {
-      UserName = "Not authorized";
-      BearerToken = string.Empty;
+        public AppUserAuth() : base()
+        {
+            UserName = "Not authorized";
+            BearerToken = string.Empty;
+        }
+
+        public string UserName { get; set; }
+        public string BearerToken { get; set; }
+        public bool IsAuthenticated { get; set; }
+
+        public List<AppUserClaim> Claims { get; set; }
+        public List<AppRole> Roles { get; set; }
     }
-
-    public string UserName { get; set; }
-    public string BearerToken { get; set; }
-    public bool IsAuthenticated { get; set; }
-
-    public List<AppUserClaim> Claims { get; set; }
-  }
 }

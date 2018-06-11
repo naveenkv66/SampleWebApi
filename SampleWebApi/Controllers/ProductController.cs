@@ -14,7 +14,8 @@ namespace SampleWebApi.Controllers
   public class ProductController : BaseApiController
   {
     [HttpGet]
-    [Authorize(Policy = "CanAccessProducts")]
+   // [Authorize(Policy = "CanAccessProducts")]
+    [Authorize(Roles ="admin")]
     public IActionResult Get()
     {
       IActionResult ret = null;
@@ -44,6 +45,7 @@ namespace SampleWebApi.Controllers
     }
 
     [HttpGet("{id}", Name = "Get")]
+   
     public IActionResult Get(int id)
     {
       IActionResult ret = null;
