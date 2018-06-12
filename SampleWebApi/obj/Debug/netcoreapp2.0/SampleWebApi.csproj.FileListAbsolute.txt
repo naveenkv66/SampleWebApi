@@ -8,4 +8,3 @@ c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\Sa
 c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.AssemblyInfo.cs
 c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.dll
 c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.pdb
-c:\users\admin\source\repos\SampleWebApi\SampleWebApi\obj\Debug\netcoreapp2.0\SampleWebApi.csprojAssemblyReference.cache

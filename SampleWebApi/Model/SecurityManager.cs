@@ -47,9 +47,13 @@ namespace SampleWebApi.Security
             {
                 using (var db = new PtcDbContext())
                 {
-                    list.Add(new AppRole() { RoleId = 1, RoleName = "admin", UserId = new Guid("898C9784-E31F-4F37-927F-A157EB7CA215") });
+                    list.Add(new AppRole() { RoleId = 1, RoleName = "AdminUser", UserId = new Guid("898C9784-E31F-4F37-927F-A157EB7CA215") });
+                    list.Add(new AppRole() { RoleId = 2, RoleName = "SuperUser", UserId = new Guid("898C9784-E31F-4F37-927F-A157EB7CA215") });
+
+                    list.Add(new AppRole() { RoleId = 1, RoleName = "AdminUser", UserId = new Guid("4A1947EC-099C-4532-8105-64CF8C8B4B94") });
+                  
                 }
-               
+
             }
             catch (Exception ex)
             {
